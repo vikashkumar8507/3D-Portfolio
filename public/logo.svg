@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="200" height="100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Text version of "V" -->
+  <text x="10" y="40" font-family="Arial" font-size="40" fill="black">V</text>
+  
+  <!-- Path version of "V" -->
+  <path d="M120 10 L140 90 L160 10 Z" fill="red" />
+</svg>
+
